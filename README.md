@@ -8,7 +8,7 @@ This repository implements the Memorizing Transformers architecture from [Memori
 
 Frameworks: PyTorch, FAISS
 
-GPU: Optimized for NVIDIA T4 GPUs
+GPU: NVIDIA T4 GPU
 
 Sequence Length: Supports sequences up to 5120 tokens
 
